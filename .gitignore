@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# OTP Binaries and Data
+otp/
+data/
+*.exe
+*.jar
+*.pbf
+*.obj
+*.zip
+
+# Logs and Output
+*.log
+*.json
+!package.json
+!package-lock.json
+*.txt
+*.csv
+
+# Editor
+.vscode/
+.idea/
+.env
+
